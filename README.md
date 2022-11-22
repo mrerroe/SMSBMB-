@@ -1,6 +1,6 @@
 
-TBomb
-TBomb v2.1b
+smsbmb
+smsbmb v2.1b
 A free and open-source SMS/Call bombing application
 
 NOTES:
@@ -41,16 +41,16 @@ pip is installed for Python 3
 Install tbomb package by running:
 
 pip3 install tbomb
-Run TBomb by just typing:
+Run smsbmb by just typing:
 
-tbomb
+smsbmb
 Install from GIT
 NOTE
 Git installation methods are not universal and are likely to differ between distributions so installing Git as per the given instructions below may not work. Please check out how to install Git for your Linux distribution here. Commands below provide instructions for Debian-based systems.
 
-Running TBomb.sh as sudo miscofigures files ownership. It is recommended not to run it as sudo
+Running smsbmb.sh as sudo miscofigures files ownership. It is recommended not to run it as sudo
 
-Run these commands to clone and run TBomb.
+Run these commands to clone and run smsbmb.
 
 For Termux
 To use the bomber type the following commands in Termux:
