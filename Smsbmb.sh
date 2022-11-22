@@ -28,13 +28,13 @@ banner() {
     if ! [ -x "$(command -v figlet)" ]; then
         echo 'Introducing SMSBMB'
     else
-        figlet TBomb
+        figlet ABIR
     fi
     if ! [ -x "$(command -v toilet)" ]; then
         echo -e "\e[4;34m This Bomber Was Created By \e[1;32m DNHBOYS \e[0m"
     else
         echo -e "\e[1;34mCreated By \e[1;34m"
-        toilet -f mono12 -F border B.N.H.BOYS
+        toilet -f mono12 -F border DNHBOYS 
     fi
     echo -e "\e[1;34m For Any Queries Join Me!!!\e[0m"
     echo -e "\e[1;32m           Telegram: https://t.me/mrerrorxfuckyou \e[0m"
